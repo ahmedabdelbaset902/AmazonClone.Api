@@ -1,0 +1,12 @@
+# Visual Studio
+.vs/
+bin/
+obj/
+
+# User files
+*.user
+*.suo
+
+# App settings
+appsettings.Development.json
+appsettings.Production.json

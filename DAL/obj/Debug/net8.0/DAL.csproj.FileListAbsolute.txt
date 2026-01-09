@@ -1,0 +1,17 @@
+D:\AmazonClone\DAL\bin\Debug\net8.0\DAL.deps.json
+D:\AmazonClone\DAL\bin\Debug\net8.0\DAL.runtimeconfig.json
+D:\AmazonClone\DAL\bin\Debug\net8.0\DAL.dll
+D:\AmazonClone\DAL\bin\Debug\net8.0\DAL.pdb
+D:\AmazonClone\DAL\bin\Debug\net8.0\Domains.dll
+D:\AmazonClone\DAL\bin\Debug\net8.0\Domains.pdb
+D:\AmazonClone\DAL\obj\Debug\net8.0\DAL.csproj.AssemblyReference.cache
+D:\AmazonClone\DAL\obj\Debug\net8.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\AmazonClone\DAL\obj\Debug\net8.0\DAL.AssemblyInfoInputs.cache
+D:\AmazonClone\DAL\obj\Debug\net8.0\DAL.AssemblyInfo.cs
+D:\AmazonClone\DAL\obj\Debug\net8.0\DAL.csproj.CoreCompileInputs.cache
+D:\AmazonClone\DAL\obj\Debug\net8.0\DAL.csproj.Up2Date
+D:\AmazonClone\DAL\obj\Debug\net8.0\DAL.dll
+D:\AmazonClone\DAL\obj\Debug\net8.0\refint\DAL.dll
+D:\AmazonClone\DAL\obj\Debug\net8.0\DAL.pdb
+D:\AmazonClone\DAL\obj\Debug\net8.0\DAL.genruntimeconfig.cache
+D:\AmazonClone\DAL\obj\Debug\net8.0\ref\DAL.dll
